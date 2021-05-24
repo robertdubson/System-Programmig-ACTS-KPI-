@@ -1,0 +1,12 @@
+Policy Number:222
+Balance:0
+Payment amount:  0
+----------------------
+Policy Number:333
+Balance:0
+Payment amount:  0
+----------------------
+Policy Number:444
+Balance:0
+Payment amount:  0
+----------------------
