@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AboutWindow</class>
+ <widget class="QDialog" name="AboutWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>438</width>
+    <height>359</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="whatsThis">
+   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;pre style=&quot; margin-top:0px; margin-bottom:0px; margin-left:37px; margin-right:37px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'lucida grande','tahoma','verdana','arial','sans-serif'; font-size:16px; color:#000000;&quot;&gt;─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot; margin-top:0px; margin-bottom:0px; margin-left:37px; margin-right:37px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'lucida grande','tahoma','verdana','arial','sans-serif'; font-size:16px; color:#000000;&quot;&gt;█░░░█░░░░░░░░░░▄▄░██░█&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot; margin-top:0px; margin-bottom:0px; margin-left:37px; margin-right:37px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'lucida grande','tahoma','verdana','arial','sans-serif'; font-size:16px; color:#000000;&quot;&gt;█░▀▀█▀▀░▄▀░▄▀░░▀▀░▄▄░█&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot; margin-top:0px; margin-bottom:0px; margin-left:37px; margin-right:37px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'lucida grande','tahoma','verdana','arial','sans-serif'; font-size:16px; color:#000000;&quot;&gt;█░░░▀░░░▄▄▄▄▄░░██░▀▀░█&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot; margin-top:0px; margin-bottom:0px; margin-left:37px; margin-right:37px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'lucida grande','tahoma','verdana','arial','sans-serif'; font-size:16px; color:#000000;&quot;&gt;─▀▄▄▄▄▄▀─────▀▄▄▄▄▄▄▀&lt;/span&gt;&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>0</y>
+     <width>601</width>
+     <height>391</height>
+    </rect>
+   </property>
+   <property name="whatsThis">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-size:6pt;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This is a programm for solving quizes connected to various topics. &lt;/p&gt;&lt;p&gt;You can select any topic you want and check your knowledge in defferent subjects &lt;/p&gt;&lt;p&gt;like history, math, biology, etc.&lt;/p&gt;&lt;p&gt;Enjoy and have fun :)))))))))))))))))))!&lt;/p&gt;&lt;p&gt;By Robert Dubson, Illya Krugliak, Voskolup Denis.&lt;/p&gt;&lt;pre style=&quot; margin-top:0px; margin-bottom:0px; margin-left:37px; margin-right:37px; -qt-block-indent:0; text-indent:0px;&quot;&gt;¯\_( ͡❛ ͜ʖ ͡❛)_/¯&lt;/pre&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
